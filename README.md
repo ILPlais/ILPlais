@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+| Name          | Badge                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| GitHub stats  | ![ILPlais's github stats](https://github-readme-stats.vercel.app/api?username=ILPlais&theme=catppuccin_mocha&show_icons=true) |
+| Top languages | ![ILPlais's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ILPlais&theme=catppuccin_mocha)     |
+| GitHub streak | ![ILPlais's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ILPlais&theme=catppuccin_mocha)             |
+
 <!--
 **ILPlais/ILPlais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
